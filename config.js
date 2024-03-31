@@ -79,10 +79,10 @@ module.exports = {
   VERSION : process.env.VERSION || "2.0.0",
   caption : process.env.CAPTION || "©²⁰²⁴ ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅᵛ²•⁰•⁰" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅᵛ²•⁰•⁰ - ²⁰²⁴ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n youtube.com/@giftedtechnexus"),
  
-  author : process.env.PACK_AUTHER|| "Gifted-MD",
+  author : process.env.PACK_AUTHER|| "Yobra",
   packname: process.env.PACK_NAME || "♥️",
   botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "It's Gifted",
+  ownername:process.env.OWNER_NAME|| "God Adams",
 
 
   errorChat : process.env.ERROR_CHAT || "",
